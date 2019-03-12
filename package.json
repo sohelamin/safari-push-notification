@@ -1,0 +1,25 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "Push Notification Implementation",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sohel Amin",
+  "license": "MIT",
+  "dependencies": {
+    "apn": "^2.2.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "rimraf": "^2.6.3",
+    "safari-push-notifications": "^0.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}

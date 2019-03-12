@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.env
+certificates/Certificates.p12
+certificates/website_aps_production.cer
+certificates/cert.pem
+certificates/key.pem
+certificates/key.pem
+certificates/AppleWWDRCA.pem
+pushPackage.zip
